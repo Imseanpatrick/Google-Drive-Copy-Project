@@ -20,6 +20,4 @@ This program was designed to archive Google Drive materials owned by legacy stud
 4. **Create Destination Folder**: It creates a new folder named "Copy of NULab and DITI" in Google Drive, or uses the existing folder if found.
 5. **Copy Process**: The script initiates the copying of the source folder and its contents, displaying a summary of successes and failures.
 
-## Summary of Results:
-After the copy process, the script prints the total number of successful copies and any failures encountered during the operation.
 
